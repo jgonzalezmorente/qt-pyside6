@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\jgonz\\anaconda3\\envs\\qt\\python.exe",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "python.languageServer": "Jedi"
+}
